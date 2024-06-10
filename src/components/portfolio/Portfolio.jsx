@@ -7,7 +7,7 @@ const items = [
     id: 1,
     title: "Maze Game",
     img: "/mazegamess.png",
-    desc: "This maze game features an algorithm that automatically generates a unique maze with every page load. Working on this project solidified my understanding of core vanilla JavaScript concepts and demonstrated the versatility of JavaScript in creating dynamic applications. In the future, I plan to enhance the game by adding a popup menu at the initial page load, allowing players to select the maze difficulty with a simple click. This difficulty selection will adjust the grid dimensions used to create the maze, providing a customizable challenge for the players.",
+    desc: "This maze game showcases an algorithm that generates a new maze each time the page loads. It strengthened my grasp of fundamental vanilla JavaScript concepts and highlighted JavaScript's versatility in dynamic app creation. I aim to improve the game by adding a popup menu for players to select maze difficulty, adjusting grid dimensions for a customizable challenge.",
     link: "https://denniswellsmazegame.netlify.app/",
   },
   {
@@ -28,7 +28,7 @@ const items = [
     id: 4,
     title: "Feedback App",
     img: "/feedbackuiss.png",
-    desc: "This React application enables users to share their thoughts on products by leaving comments and ratings out of 10. It's been a great learning experience - not only did I deepen my understanding of state and hooks, but I also discovered the significance of the context API in larger-scale projects. Structuring React projects became clearer as I delved into this app, reinforcing key concepts like props, state, form handling, lists, and keys. The project underscored the importance of organization, and I found that utilizing the context API greatly simplifies data management compared to passing props throughout the entire project tree.",
+    desc: "This React app lets users share thoughts on products through comments and ratings. It was a valuable learning experience, deepening my grasp of state, hooks, and the context API's role in larger projects. Structuring React apps became clearer as I explored this project, reinforcing concepts like props, state, form handling, lists, and keys. Using the context API simplified data management, highlighting the importance of organization over prop passing across the project tree.",
     link: "https://dwfeedbackui.netlify.app/",
   },
 ];
