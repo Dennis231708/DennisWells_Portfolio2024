@@ -13,8 +13,8 @@
     font-size: 36px;
 
     @include mobile {
-      padding-top: calc(100vh - 100px);
-      font-size: 24px;
+      display: none;
+      /* Hide the progress bar on mobile */
     }
 
     .progressBar {
@@ -42,6 +42,7 @@
 
       @include mobile {
         flex-direction: column;
+        padding-bottom: 80px;
       }
 
       .imageContainer {
@@ -75,6 +76,7 @@
           padding: 10px;
           align-items: center;
           text-align: center;
+          margin-top: 20px;
         }
 
         h2 {
@@ -101,6 +103,7 @@
           padding: 10px;
           width: 200px;
           cursor: pointer;
+          margin-top: 20px;
         }
       }
     }
