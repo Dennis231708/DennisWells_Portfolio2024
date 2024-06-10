@@ -1,4 +1,3 @@
-# React + Vite
+# Dennis Wells Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+Dennis Wells Portfolio 2024 built using React
