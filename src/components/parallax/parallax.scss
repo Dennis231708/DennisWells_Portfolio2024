@@ -75,6 +75,11 @@
       width: 148px;
       height: 148px;
       margin: 5px;
+
+      @include mobile {
+        width: 74px;
+        height: 74px;
+      }
     }
   }
 }
