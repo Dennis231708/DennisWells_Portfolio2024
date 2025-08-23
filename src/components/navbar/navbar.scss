@@ -11,6 +11,10 @@
     justify-content: space-between;
     height: 100%;
 
+    .navName {
+      padding-left: 5rem;
+    }
+
     @include mobile {
       justify-content: flex-end;
       padding: 20px;

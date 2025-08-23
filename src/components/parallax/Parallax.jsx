@@ -42,6 +42,8 @@ const Parallax = ({ type }) => {
           <img src="/icons/node-sass.svg" alt="Node-sass" />
           <img src="/icons/postger.png" alt="PostgreSQL" />
           <img src="/icons/visual-studio-code.svg" alt="Visual Studio Code" />
+          <img src="/icons/shopify-logo.svg" alt="Shopify" />
+          <img src="/icons/wordpress-icon.svg" alt="Wordpress" />
         </motion.span>
       </motion.div>
       <motion.div className="mountains"></motion.div>
