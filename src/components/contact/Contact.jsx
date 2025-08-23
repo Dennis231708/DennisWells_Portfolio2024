@@ -62,7 +62,7 @@ const Contact = () => {
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Address</h2>
-          <span>910 8th Ave E, Shakopee, MN 55379</span>
+          <span>330 Bonnevista Terrace, Shakopee, MN 55379</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Phone</h2>

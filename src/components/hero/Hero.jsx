@@ -57,7 +57,7 @@ const Hero = () => {
         initial="initial"
         animate="animate"
       >
-        HTML CSS JS REACT NODE CHAI MOCHA EXPRESS FRAMER JQUERY REACTNATIVE REDUX
+        HTML CSS JS REACT NODE CHAI MOCHA EXPRESS FRAMER JQUERY REACTNATIVE REDUX SHOPIFY WORDPRESS
       </motion.div>
       <div className="imageContainer">
         <img src="/me.png" alt="" />
