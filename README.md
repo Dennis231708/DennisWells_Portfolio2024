@@ -19,7 +19,7 @@ This is my personal portfolio website, built using React. It showcases my projec
 4. Run the development server: `npm start`
 
 ## Contact
-Feel free to reach out to me at [your email] for any inquiries or collaborations.
+Feel free to reach out to me at denniswellsdev@gmail.com for any inquiries or collaborations.
 
 ---
 
